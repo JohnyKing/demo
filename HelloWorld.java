@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("2");
 		System.out.println("20201015");
         System.out.println("tonghuashun");
+        System.out.println("2020/10/16");
     }
 }
